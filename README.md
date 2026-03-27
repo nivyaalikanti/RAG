@@ -30,6 +30,7 @@ RAG/
 ---
 
 ## Workflow
+![Workflow](workflow.png)
 
 ### 1. Document Loading
 
