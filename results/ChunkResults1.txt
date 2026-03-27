@@ -1,0 +1,68 @@
+User Query: How much did Microsoft pay to acquire GitHub?
+
+--- Context ---
+
+Document 1:
+117. "Microsoft's 2018, part 1: Open source, wobbly Windows and everyone's going to the cloud"
+(https://www.theregister.co.uk/2018/12/25/microsoft_year_in_review_2018/). The Register.
+Archived (https://web.archive.org/web/20190103060059/https://www.theregister.co.uk/2018/
+12/25/microsoft_year_in_review_2018/) from the original on January 3, 2019. Retrieved
+January 3, 2019.
+
+118. "Microsoft to acquire GitHub for $7.5 billion" (https://news.microsoft.com/2018/06/04/microso
+ft-to-acquire-github-for-7-5-billion/). Microsoft. June 4, 2018. Archived (https://web.archive.or
+g/web/20180604142244/https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-
+for-7-5-billion/) from the original on June 4, 2018.
+
+Document 2:
+119. "Microsoft completes GitHub acquisition" (https://web.archive.org/web/20190112212059/http
+s://www.msn.com/en-us/news/technology/microsoft-completes-github-acquisition/ar-BBOVV
+OT). www.msn.com. Archived from the original (https://www.msn.com/en-us/news/technolog
+y/microsoft-completes-github-acquisition/ar-BBOVVOT) on January 12, 2019. Retrieved
+April 10, 2019.
+
+120. Hackett, Robert (August 21, 2018). "Microsoft Offers Free Cybersecurity Tools to Political
+Candidates—But You've Got to Be a Microsoft Customer" (http://fortune.com/2018/08/21/mi
+crosoft-free-cybersecurity-tools-midterm-election-facebook-google/). Archived (https://web.ar
+chive.org/web/20180822112819/http://fortune.com/2018/08/21/microsoft-free-cybersecurity-t
+ools-midterm-election-facebook-google/) from the original on August 22, 2018. Retrieved
+August 24, 2018.
+
+Document 3:
+In April 2018, Microsoft released the source code for Windows File Manager under the MIT License to
+celebrate the program's 20th anniversary. In April the company further expressed willingness to embrace
+open source initiatives by announcing Azure Sphere as its own derivative of the Linux operating
+system.[117] In May 2018, Microsoft partnered with 17 American intelligence agencies to develop cloud
+computing products. The project is dubbed "Azure Government" and has ties to the Joint Enterprise
+Defense Infrastructure (JEDI) surveillance program.[117] On June 4, 2018, Microsoft officially announced
+the acquisition of GitHub for $7.5 billion, a deal that closed on October 26, 2018.[118][119] On July 10,
+2018, Microsoft revealed the Surface Go platform to the public. Later in the month, it converted
+Microsoft Teams to gratis.[117] In August 2018, Microsoft released two projects called Microsoft
+AccountGuard and Defending Democracy. It also unveiled Snapdragon 850 compatibility for Windows
+10 on the ARM architecture.[120][121][117]
+
+Document 4:
+220. "FY23 Q4 - Press Releases - Investor Relations - Microsoft" (https://www.microsoft.com/en-
+us/investor/earnings/fy-2023-q4/press-release-webcast). www.microsoft.com. Retrieved
+July 25, 2023.
+
+221. "Microsoft Investor Relations—Annual Reports" (https://www.microsoft.com/en-us/Investor/a
+nnual-reports.aspx). www.microsoft.com. Archived (https://web.archive.org/web/2018110714
+5159/https://www.microsoft.com/en-us/Investor/annual-reports.aspx) from the original on
+November 7, 2018. Retrieved November 7, 2018.
+
+222. "Microsoft wins $480M military contract to outfit soldiers with HoloLens AR tech" (https://tech
+crunch.com/2018/11/28/microsoft-wins-480m-military-contract-to-outfit-soldiers-with-hololen
+s-ar-tech/). TechCrunch. Archived (https://web.archive.org/web/20181129072828/https://tec
+hcrunch.com/2018/11/28/microsoft-wins-480m-military-contract-to-outfit-soldiers-with-holole
+ns-ar-tech/) from the original on November 29, 2018. Retrieved November 29, 2018.
+
+Document 5:
+In June 2016, Microsoft announced a project named Microsoft Azure Information Protection. It aims to
+help enterprises protect their data as it moves between servers and devices.[112] In November 2016,
+Microsoft joined the Linux Foundation as a Platinum member during Microsoft's Connect(); developer
+event in New York.[113] The cost of each Platinum membership is US$500,000 per year.[114] Some
+analysts deemed this unthinkable ten years prior, however, as in 2001 then-CEO Steve Ballmer called
+Linux "cancer".[115] Microsoft planned to launch a preview of Intune for Education "in the coming
+weeks", with general availability scheduled for spring 2017, priced at $30 per device, or through volume
+licensing agreements.[116]

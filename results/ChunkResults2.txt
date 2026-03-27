@@ -1,0 +1,88 @@
+User Query: In which year did Tesla started the production of Roadster?
+
+--- Context ---
+
+Document 1:
+Tesla Roadster (first generation)
+The original Tesla Roadster[123] was a two-seater sports car, evolved from the
+Lotus Elise chassis.[124] It was produced from 2008 to 2012. The Roadster was
+the first highway-legal serial production electric car to use lithium-ion battery
+cells, and the first production all-electric car to travel more than 200 miles
+(320 km) per charge.
+
+The original Roadster
+
+Services
+
+Connectivity services
+Tesla cars come with "Standard Connectivity", which provides navigation using a cellular connection. For a fee, Tesla
+offers a subscription to "Premium Connectivity" which adds live traffic and satellite maps to navigation, internet browsing,
+and media streaming.[125]
+
+Document 2:
+Tesla, Inc.
+Tesla, Inc. (/ˈtɛzlə/ TEZ-lə or /ˈtɛslə/ ⓘ  TESS-lə[a]) is an American Tesla, Inc.
+multinational automotive and clean energy company. Headquartered in
+Austin, Texas, it designs, manufactures and sells battery electric vehicles
+(BEVs), stationary battery energy storage devices from home to grid-
+scale, solar panels and solar shingles, and related products and services.
+
+Tesla was incorporated in July 2003 by Martin Eberhard and Marc
+Tarpenning as Tesla Motors. Its name is a tribute to inventor and
+electrical engineer Nikola Tesla. In February 2004, Elon Musk led
+Tesla's first funding round and became the company's chairman; in
+2008, he was named chief executive officer. In 2008, the company
+began production of its first car model, the Roadster sports car, followed
+by the Model S sedan in 2012, the Model X SUV in 2015, the Model 3
+sedan in 2017, the Model Y crossover in 2020, the Tesla Semi truck in
+2022 and the Cybertruck pickup truck in 2023.
+
+Document 3:
+2008.[21] In August 2007, Michael Marks was brought in as interim
+CEO, and in December 2007, Ze'ev Drori became CEO and president.[22] Musk
+succeeded Drori as CEO in October 2008.[22] In June 2009, Eberhard filed a lawsuit
+against Musk for allegedly forcing him out.[23] The case was dismissed in August
+2009.[24]
+
+Tesla began production of the Roadster in 2008 inside the service bays of a former
+Chevrolet dealership in Menlo Park.[25][26] By January 2009, Tesla had raised
+$187 million and delivered 147 cars. Musk had contributed $70 million of his money to
+the company.[27]
+
+Tesla Motors insignia as seen
+In June 2009, Tesla was approved to receive $465 million in interest-bearing loans from on a Tesla Roadster, c. 2010
+
+Document 4:
+In October 2010, Tesla opened the Tesla Factory to start production of the
+Model S.[34] In January 2012, Tesla ceased production of the Roadster, and in First deliveries of Model S at the Tesla
+June 2012, the company launched its second car, the Model S luxury sedan.[35]
+
+Fremont Factory in California, in June
+The Model S won several automotive awards during 2012 and 2013, including 2012
+the 2013 Motor Trend Car of the Year,[36] and became the first electric car to
+top the monthly sales ranking of a country, when it topped the Norwegian new
+car sales list in September 2013.[37] The Model S was also the best-selling plug-in electric car worldwide for the years
+2015 and 2016.[38]
+
+On July 15, 2013, Tesla became a NASDAQ-100 company.[39]
+
+Tesla announced the Tesla Autopilot, a driver-assistance system, in 2014. In September that year, all Tesla cars started
+shipping with sensors and software to support the feature, with what would later be called "hardware version 1".[40]
+
+Document 5:
+Roadster (second generation)
+On November 16, 2017, Tesla unveiled the second generation Roadster with a
+purported range of 620 miles (1,000 km) with a 200-kilowatt-hour (720 MJ)
+battery pack that would achieve 0–60 miles per hour (0–97  km/h) in 1.9
+seconds; and 0–100  mph (0–161  km/h) in 4.2 seconds,[118] and a top speed
+over 250  mph (400  km/h). A "SpaceX Package" would include cold-gas
+thrusters.[119] The vehicle would have three electric motors, allowing all-wheel
+drive and torque vectoring during cornering.[119] The base price was set at Tesla Cybertruck
+
+$200,000.[119] Initially scheduled to ship in 2020, the vehicle has been
+repeatedly delayed. In July 2024, Musk said that the Roadster should enter
+production in 2025.[120]
+
+Tesla next-generation vehicle
+The Tesla next-generation vehicle is an announced battery electric platform. It
+would become the third platform for the company. Vehicles based on this Tesla Roadster prototype
